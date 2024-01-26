@@ -1,2 +1,3 @@
 Hello, Github! 
 Posisi sekarang di branch-1
+Ini tambahan dari branch-2
